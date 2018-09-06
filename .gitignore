@@ -3,5 +3,5 @@
 /logs/*
 /tmp/*
 /vendor/*
-/composer.lock
+/composer.l
 /config/Migrations/schema-dump-default.lock
