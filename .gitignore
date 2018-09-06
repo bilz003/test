@@ -1,0 +1,7 @@
+.idea/*
+/config/app.php
+/logs/*
+/tmp/*
+/vendor/*
+/composer.lock
+/config/Migrations/schema-dump-default.lock
